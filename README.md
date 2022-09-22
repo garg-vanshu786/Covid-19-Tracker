@@ -1,4 +1,4 @@
-# Covid-19-Tracker
+# Covid-19 Tracker App
 
 This Project is a beginner friendly project I built using React. Some key Aspects:
 
